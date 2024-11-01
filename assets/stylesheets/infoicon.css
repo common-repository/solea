@@ -1,0 +1,47 @@
+solea-info-icon {
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+}
+
+solea-info-icon::before {
+	content: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><defs><linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:0" /><stop offset="100%" style="stop-color:%230056b3;stop-opacity:1" /></linearGradient></defs><circle cx="12" cy="12" r="10" fill="url(%23grad1)" /><text x="12" y="16" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="%230056b3" text-anchor="middle" font-weight="bold">i</text></svg>');
+	font-size: 24px;
+}
+
+solea-info-icon .tooltip {
+	visibility: hidden;
+	background-color: #ffffff;
+	color: #000000;
+	border-radius: 5px;
+	border-color: #1da1f2;
+	border-width: 1px;
+	border-style: solid;
+	padding: 5px;
+	position: absolute;
+	box-shadow: 10px 10px 10px #e0e0e0;
+	white-space: nowrap; /* Verhindert Zeilenumbrüche */
+	z-index: 1;
+	bottom: 125%; /* Positionieren Sie den Tooltip über dem Symbol */
+	left: 50%;
+	margin-left: -10px;
+	margin-top: 0px;
+	opacity: 0;
+	transition: opacity 0.3s;
+}
+
+solea-info-icon .tooltip::after {
+	content: '';
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	margin-left: -5px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black transparent transparent transparent;
+}
+
+solea-info-icon:hover .tooltip {
+	visibility: visible;
+	opacity: 1;
+}

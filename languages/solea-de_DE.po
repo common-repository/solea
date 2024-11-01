@@ -1,0 +1,1023 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+
+msgid "solea"
+msgstr "solea"
+
+msgid "Registration"
+msgstr "Registrierung"
+
+msgid "Event %s is closed - Please check participants"
+msgstr "Die Veranstaltung %s ist geschlossen - Bitte prüfe die Teilis"
+
+msgid "Participation report for  %s - Please check participants"
+msgstr "Teilnahmebericht für %s - Bitte prüfe die Teilis"
+
+msgid "Registration for event \"%s\" has failed"
+msgstr "Die Anmeldung für die Veranstaltung %s ist fehlgeschlagen"
+
+msgid "Contribution"
+msgstr "Beitrag"
+
+msgid "I also eat meat"
+msgstr "Ich esse auch Fleisch"
+
+msgid "Vegetarian"
+msgstr "Vegetarisch"
+
+msgid "Vegan"
+msgstr "Vegan"
+
+msgid "Your registration confirmation for event"
+msgstr "Deine Anmeldebestätigung für die Veranstaltung"
+
+msgid "A new participant has registered for event"
+msgstr "Ein neuer Teili hat sich für die Veranstaltung angemeldet"
+
+msgid "Participant for event \"%s\" was unregistered"
+msgstr "Teili für die Veranstaltung \"%s\" wurde abgemeldet"
+
+msgid "Hello,"
+msgstr "Hallo,"
+
+msgid "This is just a small information email that your event %1$s is still open for registrations until %2$s."
+msgstr "Dies ist nur eine kleine Informations-E-Mail, dass die Veranstaltung %1$s noch bis %2$s für Anmeldungen geöffnet ist."
+
+msgid "You can already check the participant list here: <a href=\"%1$s\">%2$s</a>"
+msgstr "Du kannst die Teilisliste hier bereits einsehen: <a href=\"%1$s\">%2$s</a>"
+
+msgid "The event \"%s\" has just closed. Please check the participation lists."
+msgstr "Die Veranstaltung \"%s\" wurde gerade geschlossen. Bitte prüfe die Teilislisten."
+
+msgid "You can check the participant list here: <a href=\"%1$s\">%2$s</a>"
+msgstr "Du kannst die Teilisliste hier einsehen: <a href=\"%1$s\">%2$s</a>"
+
+msgid "This is just a small information email to let you know that your event %1$s is still open for registrations until %2$s."
+msgstr "Dies ist nur eine kleine Informations-E-Mail, um Sie wissen zu lassen, dass Ihre Veranstaltung %1$s noch bis %2$s für Anmeldungen geöffnet ist."
+
+msgid "The following participants are registered for your local group:"
+msgstr "Die folgenden Teilis sind für deinen Stamm registriert:"
+
+msgid "The following participants are currently registered for your local group:"
+msgstr "Die folgenden Teilis sind derzeit für deinen Stamm registriert:"
+
+msgid "years"
+msgstr "Jahre"
+
+msgid "Hello %1$s,</h3><br />You are now signed off from the event \"%2$s\"<br /><br />The event management will contact you if you receive any refunds."
+msgstr "Hallo %1$s,</h3><br />du bist nun von der Veranstaltung \"%2$s\" abgemeldet<br /><br />Die Veranstaltungsleitung wird dich kontaktieren, falls du Rückerstattungen erhältst."
+
+msgid "For further questions, please contact"
+msgstr "Bei weiteren Fragen kontaktiere bitte"
+
+msgid "The event management crew"
+msgstr "Die Veranstaltungsleitung"
+
+msgid "Hello"
+msgstr "Hallo"
+
+msgid "A new participant has just signed up for the event \"%s\"."
+msgstr "Ein neuer Teili hat sich gerade für die Veranstaltung \"%s\" angemeldet."
+
+msgid "Firstname:"
+msgstr "Vorname:"
+
+msgid "Lastname:"
+msgstr "Nachname:"
+
+msgid "Nickname:"
+msgstr "Spitzname:"
+
+msgid "E-Mail:"
+msgstr "E-Mail:"
+
+msgid "E-Mail (parents):"
+msgstr "E-Mail (Eltern):"
+
+msgid "If you are part of the event management, you can see all details on:"
+msgstr "Wenn du Teil der Veranstaltungsleitung bist, kannst du alle Details einsehen unter:"
+
+msgid "The participant %1$s has just signed off from the event \"%2$s\"."
+msgstr "Der Teili %1$s hat sich gerade von der Veranstaltung \"%2$s\" abgemeldet."
+
+msgid "Hello %s,"
+msgstr "Hallo %s,"
+
+msgid "We have received your payment. You have now paid %s."
+msgstr "Wir haben deine Zahlung erhalten. du hast nun insgesamt %s bezahlt."
+
+msgid "All required payment is now complete, and you are fully registered for the event."
+msgstr "Alle erforderlichen Zahlungen sind nun abgeschlossen und du bist vollständig für die Veranstaltung registriert."
+
+msgid "Please note that an amount of %s is still missing."
+msgstr "Bitte beachte, dass noch ein Betrag von %s ausstehend ist."
+
+msgid "Your registration may be canceled if the remaining amount is not received by %s."
+msgstr "Deine Anmeldung kann storniert werden, wenn der restliche Betrag nicht bis %s eingegangen ist."
+
+msgid "If full payment is not possible within this period, please contact the event management."
+msgstr "Wenn eine vollständige Zahlung in diesem Zeitraum nicht möglich ist, kontaktiere bitte die Veranstaltungsleitung."
+
+msgid "Your registration for the event \"%s\" was successful. We have recorded the following data:"
+msgstr "Deine Anmeldung für die Veranstaltung \"%s\" war erfolgreich. Wir haben die folgenden Daten erfasst:"
+
+msgid "Arrival"
+msgstr "Ankunft"
+
+msgid "Departure"
+msgstr "Abreise"
+
+msgid "Eating habit"
+msgstr "Essgewohnheiten"
+
+msgid "If this is not correct, or if you have urgent questions, please contact"
+msgstr "Wenn dies nicht korrekt ist oder wenn du dringende Fragen hast, kontaktiere bitte"
+
+msgid "To complete your registration, please transfer the registration amount immediately to the following bank account:"
+msgstr "Um Ihre Anmeldung abzuschließen, überweise bitte den Anmeldebetrag umgehend auf das folgende Bankkonto:"
+
+msgid "Account owner"
+msgstr "Kontoinhaber"
+
+msgid "Giro-Code"
+msgstr "Giro-Code"
+
+msgid "IBAN"
+msgstr "IBAN"
+
+msgid "Purpose"
+msgstr "Verwendungszweck"
+
+msgid "Total amount"
+msgstr "Gesamtbetrag"
+
+msgid "Please note that your registration may be cancelled if payment is not received in the specified account by %s."
+msgstr "Bitte beachte, dass deine Anmeldung storniert werden kann, wenn die Zahlung nicht bis %s auf dem angegebenen Konto eingegangen ist."
+
+msgid "If payment is not possible or only partially possible within this period, please contact the event management."
+msgstr "Wenn eine Zahlung in diesem Zeitraum nicht oder nur teilweise möglich ist, kontaktiere bitte die Veranstaltungsleitung."
+
+msgid "You do not have to pay the registration fee. This is the case if participation is supported, billing is done through your local group, or there are other decisions."
+msgstr "Du muss nichts nicht bezahlen. Dies ist der Fall, wenn die Teilnahme gefördert wird, die Abrechnung über deinen Stamm erfolgt oder andere Entscheidungen getroffen wurden."
+
+msgid "Your registration is complete now."
+msgstr "Deine Anmeldung ist nun abgeschlossen."
+
+msgid "The event \"%1$s\" was closed on %2$s. Please check now if every participant has paid the event contributions."
+msgstr "Die Veranstaltung \"%1$s\" wurde am %2$s geschlossen. Bitte prüfe jetzt, ob jeder Teili die Veranstaltungsbeiträge bezahlt hat."
+
+msgid "Deregistered participants"
+msgstr "Abgemeldete Teilis"
+
+msgid "Amount list for"
+msgstr "Beitragsliste für"
+
+msgid "First name"
+msgstr "Vorname"
+
+msgid "Last name"
+msgstr "Nachname"
+
+msgid "Participant group"
+msgstr "Teilisgruppe"
+
+msgid "Local group"
+msgstr "Stamm"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Amount"
+msgstr "Betrag"
+
+msgid "Amount list"
+msgstr "Beitragsliste"
+
+msgid "Non-Alcoholic Beverage List for "
+msgstr "Liste nicht-alkoholischer Getränke für "
+
+msgid "First Name"
+msgstr "Vorname"
+
+msgid "Last Name"
+msgstr "Nachname"
+
+msgid "Local Group"
+msgstr "Stamm"
+
+msgid "Birthday"
+msgstr "Geburtstag"
+
+msgid "Beverages"
+msgstr "Getränke"
+
+msgid "Drinking list (non-alcoholic)"
+msgstr "Getränkeliste (nicht-alkoholisch)"
+
+msgid "Alcoholic Beverage List for "
+msgstr "Liste alkoholischer Getränke für "
+
+msgid "Beer"
+msgstr "Bier"
+
+msgid "Wine"
+msgstr "Wein"
+
+msgid "Sparkling Wine"
+msgstr "Sekt"
+
+msgid "Other"
+msgstr "Andere"
+
+msgid "Drinking list (alcoholic)"
+msgstr "Getränkeliste (alkoholisch)"
+
+msgid "First Aid List for "
+msgstr "Erste-Hilfe-Liste für "
+
+msgid "Age"
+msgstr "Alter"
+
+msgid "Swimming Permission"
+msgstr "Badeerlaubnis"
+
+msgid "Allergies"
+msgstr "Allergien"
+
+msgid "Medications"
+msgstr "Medikamente"
+
+msgid "Notes"
+msgstr "Anmerkungen"
+
+msgid "First aid list"
+msgstr "Erste-Hilfe-Liste"
+
+msgid "Addition to the Kitchen List for "
+msgstr "Ergänzung zur Küchenliste "
+
+msgid "Dietary Habits"
+msgstr "Essgewohnheiten"
+
+msgid "Kitchen list with allergies"
+msgstr "Küchenliste mit Allergien"
+
+msgid "Kitchen overview"
+msgstr "Küchenübersicht"
+
+msgid "Breakfast"
+msgstr "Frühstück"
+
+msgid "Lunch"
+msgstr "Mittagessen"
+
+msgid "Dinner"
+msgstr "Abendessen"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Attendance days"
+msgstr "Teilitage"
+
+msgid "Zip code"
+msgstr "Postleitzahl"
+
+msgid "Zip code (local group)"
+msgstr "Postleitzahl (Stamm)"
+
+msgid "Participant list"
+msgstr "Teililiste"
+
+msgid "Participant list for"
+msgstr "Teililiste für"
+
+msgid "Signature"
+msgstr "Unterschrift"
+
+msgid "Photo Permission"
+msgstr "Fotoerlaubnis"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Photo Permission Social Media"
+msgstr "Fotoerlaubnis für soziale Medien"
+
+msgid "Photo Permission Print Media"
+msgstr "Fotoerlaubnis für Printmedien"
+
+msgid "Photo Permission Websites"
+msgstr "Fotoerlaubnis für Websites"
+
+msgid "Photo Permission Partner Mailings"
+msgstr "Fotoerlaubnis für Partner-Mailings"
+
+msgid "Photo Permission Internal Archives"
+msgstr "Fotoerlaubnis für interne Archive"
+
+msgid "Photo permission"
+msgstr "Fotoerlaubnis"
+
+msgid "Swimmer"
+msgstr "Schwimmer"
+
+msgid "Non-Swimmer"
+msgstr "Nicht-Schwimmer"
+
+msgid "No bath permission"
+msgstr "Keine Badeerlaubnis"
+
+msgid "Meat"
+msgstr "Fleisch"
+
+msgid "Participant"
+msgstr "Teili"
+
+msgid "Online participant"
+msgstr "Online-Teili"
+
+msgid "Teamer"
+msgstr "Teami"
+
+msgid "Volunteer"
+msgstr "Ehrenämti"
+
+msgid "The event was updated"
+msgstr "Die Veranstaltung wurde aktualisiert"
+
+msgid "Mail send report"
+msgstr "E-Mail-Sendebericht"
+
+msgid "The following message was sent to:"
+msgstr "Die folgende Nachricht wurde gesendet an:"
+
+msgid "Successfully sent messages"
+msgstr "Erfolgreich gesendete Nachrichten"
+
+msgid "Failed to sent messages"
+msgstr "Fehlgeschlagene Nachrichten"
+
+msgid "The participant was re-registered."
+msgstr "Der Teili wurde neu registriert."
+
+msgid "The participant was informed by email."
+msgstr "Der Teili wurde per E-Mail informiert."
+
+msgid "The amount was registered."
+msgstr "Der Betrag wurde erfasst."
+
+msgid "The participant data were updated"
+msgstr "Die Teilisdaten wurden aktualisiert"
+
+msgid "The participant was deregistered."
+msgstr "Der Teili wurde abgemeldet."
+
+msgid "This request is not valid anymore. Please go back to start page"
+msgstr "Diese Anfrage ist nicht mehr gültig. Bitte gehe zurück zur Startseite"
+
+msgid "The local group was created"
+msgstr "Der Stamm wurde erstellt"
+
+msgid "The settings are saved"
+msgstr "Die Einstellungen wurden gespeichert"
+
+msgid "The local group was updated"
+msgstr "Der Stamm wurde aktualisiert"
+
+msgid "Unfortunately, your registration could not be processed because you are already registered for this event."
+msgstr "Leider konnte deine Anmeldung nicht bearbeitet werden, da du bereits für diese Veranstaltung registriert bist."
+
+msgid "If you were unregistered and want to register again or have any questions, please contact the event management by email:"
+msgstr "Falls du abgemeldet wurdest und dich erneut anmelden möchtest oder Fragen hast, kontaktiere bitte die Veranstaltungsleitung per E-Mail:"
+
+msgid "Unfortunately, your registration could not be processed automatically. This is usually the case if the form contains data that cannot be processed automatically."
+msgstr "Leider konnte deine Anmeldung nicht automatisch bearbeitet werden. Dies ist normalerweise der Fall, wenn das Formular Daten enthält, die nicht automatisch verarbeitet werden können."
+
+msgid "The event management has already been informed and is attempting to complete the registration manually. You will be contacted by email afterwards or if you have any further questions."
+msgstr "Die Veranstaltungsleitung wurde bereits informiert und versucht, die Anmeldung manuell abzuschließen. Du wirst danach per E-Mail kontaktiert oder wenn du weitere Fragen hast."
+
+msgid "If this does not happen within 5 days, please contact us by email:"
+msgstr "Falls dies nicht innerhalb von 5 Tagen geschieht, kontaktiere uns bitte per E-Mail:"
+
+msgid "Please apologize for the inconvenience caused."
+msgstr "Bitte entschuldige die entstandenen Unannehmlichkeiten."
+
+msgid "Please also contact us if you have not received a confirmation email within 3 days."
+msgstr "Bitte kontaktiere uns auch, wenn du innerhalb von 3 Tagen keine Bestätigungs-E-Mail erhalten hast."
+
+msgid "Register my child"
+msgstr "Mein Kind anmelden"
+
+msgid "My child is not yet of full-aged, I would like to register my child for the event."
+msgstr "Mein Kind ist noch nicht volljährig. Ich möchte mein Kind für die Veranstaltung anmelden."
+
+msgid "Register myself"
+msgstr "Mich selbst anmelden"
+
+msgid "I am full-aged and would like to register for the event."
+msgstr "Ich bin volljährig und möchte mich für die Veranstaltung anmelden."
+
+msgid "Allergies / Intolerances"
+msgstr "Allergien / Unverträglichkeiten"
+
+msgid "You must bring sufficient quantities of medication with you."
+msgstr "Du musst ausreichende Mengen an Medikamenten mitbringen."
+
+msgid "Eating habits"
+msgstr "Essgewohnheiten"
+
+msgid "What else would you like to tell us"
+msgstr "Was möchtest du uns sonst noch mitteilen?"
+
+msgid "I would like to register for the event and have been informed about the cancellation conditions."
+msgstr "Ich möchte mich für die Veranstaltung anmelden und wurde über die Stornobedingungen informiert."
+
+msgid "I will pay the total amount of"
+msgstr "Ich werde den Gesamtbetrag von"
+
+msgid "in accordance with the information provided in the incoming email."
+msgstr "gemäß den in der eingehenden E-Mail bereitgestellten Informationen."
+
+msgid "I agree that the data I have entered here will be transmitted and stored electronically for the purpose of event registration and billing."
+msgstr "Ich stimme zu, dass die hier eingegebenen Daten elektronisch zur Eventanmeldung und Abrechnung übermittelt und gespeichert werden."
+
+msgid "Regular amount"
+msgstr "Regulärer Betrag"
+
+msgid "Funded amount"
+msgstr "Geförderter Betrag"
+
+msgid "depending on availability"
+msgstr "je nach Verfügbarkeit"
+
+msgid "Social contribution"
+msgstr "Solidaritätsbeitrag"
+
+msgid "Next"
+msgstr "Weiter"
+
+msgid "Arrival:"
+msgstr "Ankunft:"
+
+msgid "Before dinner"
+msgstr "Vor dem Abendessen"
+
+msgid "Before lunch"
+msgstr "Vor dem Mittagessen"
+
+msgid "Before breakfast"
+msgstr "Vor dem Frühstück"
+
+msgid "For evening round / No meal on arrival day"
+msgstr "zur Abendrunde / Keine Mahlzeit am Anreisetag"
+
+msgid "Departure:"
+msgstr "Abreise:"
+
+msgid "After breakfast"
+msgstr "Nach dem Frühstück"
+
+msgid "After lunch"
+msgstr "Nach dem Mittagessen"
+
+msgid "After dinner"
+msgstr "Nach dem Abendessen"
+
+msgid "Early morning / No meal on departure day"
+msgstr "Vor der Morgenrunde / Keine Mahlzeit am Abreisetag"
+
+msgid "First Name:"
+msgstr "Vorname:"
+
+msgid "Last Name:"
+msgstr "Nachname:"
+
+msgid "Local Group:"
+msgstr "Stamm:"
+
+msgid "Please select"
+msgstr "Bitte auswählen"
+
+msgid "Date of Birth:"
+msgstr "Geburtsdatum:"
+
+msgid "Street, House Number:"
+msgstr "Straße, Hausnummer:"
+
+msgid "Postal Code, City:"
+msgstr "Postleitzahl, Stadt:"
+
+msgid "Phone:"
+msgstr "Telefon:"
+
+msgid "E-mail address:"
+msgstr "E-Mail-Adresse:"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "E-mail address"
+msgstr "E-Mail-Adresse"
+
+msgid "Swimming permission"
+msgstr "Badeerlaubnis"
+
+msgid "No permission"
+msgstr "Keine Erlaubnis"
+
+msgid "My child is allowed to bathe but CANNOT SWIM"
+msgstr "Mein Kind darf baden, aber KANN NICHT schwimmen"
+
+msgid "My child is allowed to bathe and can swim"
+msgstr "Mein Kind darf baden und kann schwimmen"
+
+msgid "I participate as a"
+msgstr "Ich nehme Teil als"
+
+msgid "Team member"
+msgstr "Teami"
+
+msgid "Other participant"
+msgstr "Sonstiger Teili"
+
+msgid "On the event"
+msgstr "Bei der Veranstaltung"
+
+msgid "I mainly take on tasks and support the team"
+msgstr "Ich übernehme hauptsächlich Aufgaben und unterstütze das Team"
+
+msgid "I would like to participate in the program mainly"
+msgstr "Ich möchte hauptsächlich am Programm teilnehmen"
+
+msgid "Personal data (parents)"
+msgstr "Persönliche Daten (Eltern)"
+
+msgid "Personal data (participant)"
+msgstr "Persönliche Daten (Teilis)"
+
+msgid "Arrival and departure"
+msgstr "Ankunft und Abreise"
+
+msgid "Special characteristics"
+msgstr "Besondere Merkmale"
+
+msgid "Please let us know what we can take photos of you / your child for."
+msgstr "Bitte lass uns wissen, wofür wir Fotos von dir / deinem Kind machen dürfen."
+
+msgid "Social Media (Facebook / Instagram / ...)"
+msgstr "Soziale Medien (Facebook / Instagram / ...)"
+
+msgid "Print Media (Local newspaper, club magazine, postcards)"
+msgstr "Printmedien (Lokale Zeitung, Vereinsmagazin, Postkarten)"
+
+msgid "Websites (club's website / local group's website)"
+msgstr "Websites (Vereinswebsite / Website des Stamms)"
+
+msgid "Partners & Sponsors (often in the form of emails)"
+msgstr "Partner & Sponsoren (häufig in Form von E-Mails)"
+
+msgid "Internal purposes (chronicle, protected digital photo album)"
+msgstr "Interne Zwecke (Chronik, geschütztes digitales Fotoalbum)"
+
+msgid "Edit event settings"
+msgstr "Veranstaltungseinstellungen bearbeiten"
+
+msgid "Event name"
+msgstr "Veranstaltungsname"
+
+msgid "Registration URL"
+msgstr "Anmeldungs-URL"
+
+msgid "Organizer E-mail address"
+msgstr "E-Mail-Adresse des Veranstalters"
+
+msgid "Registration end"
+msgstr "Anmeldeschluss"
+
+msgid "Event is open for signups."
+msgstr "Veranstaltung ist offen für Anmeldungen."
+
+msgid "Notify immediately when a participant has registered."
+msgstr "Sofort benachrichtigen, wenn sich ein Teili angemeldet hat."
+
+msgid "Meat will be offered at the event."
+msgstr "Es wird Fleisch bei der Veranstaltung angeboten."
+
+msgid "Allow following local groups to participate"
+msgstr "Erlaube folgenden Stämme die Teilnahme"
+
+msgid "Add new event"
+msgstr "Neue Veranstaltung hinzufügen"
+
+msgid "Event begin"
+msgstr "Veranstaltungsbeginn"
+
+msgid "Event end"
+msgstr "Veranstaltungsende"
+
+msgid "Billing deadline"
+msgstr "Rechnungsfrist"
+
+msgid "Participants pay direct to event account"
+msgstr "Teilis zahlen direkt an das Veranstaltungs-Konto"
+
+msgid "Event account owner"
+msgstr "Inhaber des Veranstaltungs-Kontos"
+
+msgid "Event account IBAN"
+msgstr "IBAN des Veranstaltungs-Kontos"
+
+msgid "Registration by solidarity principle"
+msgstr "Anmeldung nach dem Solidaritätsprinzip"
+
+msgid "Classic registration"
+msgstr "Klassische Anmeldung"
+
+msgid "Event amounts"
+msgstr "Veranstaltungsbeträge"
+
+msgid "Group_amounts"
+msgstr "Gruppenbeträge"
+
+msgid "Available events"
+msgstr "Verfügbare Veranstaltungen"
+
+msgid "There is currently no event, where you can register for."
+msgstr "Derzeit gibt es keine Veranstaltung, für die du dich anmelden kannst."
+
+msgid "Event date"
+msgstr "Veranstaltungsdatum"
+
+msgid "Registration until"
+msgstr "Anmeldung bis"
+
+msgid "Register now"
+msgstr "Jetzt anmelden"
+
+msgid "Send mass mail"
+msgstr "Massen-E-Mail senden"
+
+msgid "Recipient(s)"
+msgstr "Empfänger(innen)"
+
+msgid "Send copy"
+msgstr "Kopie senden"
+
+msgid "Send copy to event management"
+msgstr "Kopie an die Veranstaltungsleitung senden"
+
+msgid "Subject"
+msgstr "Betreff"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "Amount for teamer"
+msgstr "Betrag für Teamis"
+
+msgid "Keep free to disable this group"
+msgstr "Freihalten, um diese Gruppe zu deaktivieren"
+
+msgid "day"
+msgstr "Tag"
+
+msgid "Description for group"
+msgstr "Beschreibung für die Gruppe"
+
+msgid "Amount for volunteers"
+msgstr "Betrag für Ehrenämtlis"
+
+msgid "Amount for participant"
+msgstr "Betrag für Teilis"
+
+msgid "Amount for others"
+msgstr "Betrag für andere"
+
+msgid "Amount for Online participants"
+msgstr "Betrag für Online-Teilis"
+
+msgid "Maximum amount for event"
+msgstr "Höchstbetrag für die Veranstaltung"
+
+msgid "Increase amount by"
+msgstr "Betrag erhöhen um"
+
+msgid "For registrations from"
+msgstr "Für Anmeldungen ab"
+
+msgid "Create event"
+msgstr "Veranstaltung erstellen"
+
+msgid "Solidarity amount"
+msgstr "Solidaritätsbetrag"
+
+msgid "Keep free to disable this option"
+msgstr "Freihalten, um diese Option zu deaktivieren"
+
+msgid "regular amount"
+msgstr "regulärer Betrag"
+
+msgid "Reduced amount"
+msgstr "Ermäßigter Betrag"
+
+msgid "Add local group"
+msgstr "Stamm hinzufügen"
+
+msgid "Group name"
+msgstr "Stammesname"
+
+msgid "ZIP code"
+msgstr "Postleitzahl"
+
+msgid "City"
+msgstr "Stadt"
+
+msgid "Update local group"
+msgstr "Stamm aktualisieren"
+
+msgid "Local groups"
+msgstr "Stämme"
+
+msgid "Actions"
+msgstr "Aktionen"
+
+msgid "Add new Group"
+msgstr "Neuen Stamm hinzufügen"
+
+msgid "Notices"
+msgstr "Mitteilungen"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Contact person"
+msgstr "Ansprechpartner"
+
+msgid "Personaldata"
+msgstr "Persönliche Daten"
+
+msgid "Participant data"
+msgstr "Teilidaten"
+
+msgid "Nickname"
+msgstr "Pfadiname"
+
+msgid "Participation group"
+msgstr "Teiligruppe"
+
+msgid "Participant details"
+msgstr "Teilidetails"
+
+msgid "Participant amount details"
+msgstr "Betragsdetails für Teilis"
+
+msgid "Register payment"
+msgstr "Zahlung erfassen"
+
+msgid "Please enter the total amount paid for the event so far:"
+msgstr "Bitte gib den bisher gezahlten Gesamtbetrag für die Veranstaltung ein:"
+
+msgid "Unregister participant"
+msgstr "Teili abmelden"
+
+msgid "Please enter the date when the unregister request was received:"
+msgstr "Bitte gib das Datum ein, an dem die Abmeldeanforderung eingegangen ist:"
+
+msgid "Event overview"
+msgstr "Veranstaltungsübersicht"
+
+msgid "Participants by local group"
+msgstr "Teilis nach Stamm"
+
+msgid "Participants by participation group"
+msgstr "Teilis nach Teilnahmegruppe"
+
+msgid "Event settings"
+msgstr "Veranstaltungseinstellungen"
+
+msgid "participants"
+msgstr "Teilis"
+
+msgid "Filter participant"
+msgstr "Teilis filtern"
+
+msgid "Presence days"
+msgstr "Präsenz-Tage"
+
+msgid "Date of deregistration"
+msgstr "Datum der Abmeldung"
+
+msgid "Send email to"
+msgstr "E-Mail senden an"
+
+msgid "Confirm payment"
+msgstr "Zahlung bestätigen"
+
+msgid "Unregister"
+msgstr "Abmelden"
+
+msgid "Re-Register"
+msgstr "Neu anmelden"
+
+msgid "Send e-mail to group"
+msgstr "E-Mail an die Gruppe senden"
+
+msgid "Participants"
+msgstr "Teilis"
+
+msgid "Send e-mail to all participants"
+msgstr "E-Mail an alle Teilis senden"
+
+msgid "Full aged"
+msgstr "Volljährig"
+
+msgid "Years"
+msgstr "Jahre"
+
+msgid "Name of contact person"
+msgstr "Name des Ansprechpartners"
+
+msgid "Medication"
+msgstr "Medikamente"
+
+msgid "Your profile is not complete."
+msgstr "Dein Profil ist nicht vollständig."
+
+msgid "Please complete"
+msgstr "Bitte vervollständige"
+
+msgid "your profile"
+msgstr "dein Profil"
+
+msgid "to be able to use all comfort functions."
+msgstr "um alle Komfortfunktionen nutzen zu können."
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "solea settings"
+msgstr "solea-Einstellungen"
+
+msgid "Options"
+msgstr "Optionen"
+
+msgid "Icon for children"
+msgstr "Symbol für Kinder"
+
+msgid "Icon for adults"
+msgstr "Symbol für Erwachsene"
+
+msgid "Participation information"
+msgstr "Teili-Informationen"
+
+msgid "Signup for event"
+msgstr "Für Veranstaltung anmelden"
+
+msgid "Events"
+msgstr "Veranstaltungen"
+
+msgid "New event"
+msgstr "Neue Veranstaltung"
+
+msgid "Event management"
+msgstr "Veranstaltungsleitung"
+
+msgid "The event was created"
+msgstr "Die Veranstaltung wurde angelegt."
+
+msgid "I mainly look after my group"
+msgstr "Betreue ich hauptsächlich meine Gruppe"
+
+msgid "Welcome to our Plugin!"
+msgstr "Willkommen zu unserem Plugin"
+
+msgid "Problem faced by many associations"
+msgstr "Problemstellung vieler Vereine"
+
+msgid "Many clubs face a common challenge: every time they organize an event, members have to front the expenses and want to get reimbursed."
+msgstr "Viele Vereine stehen vor einer gemeinsamen Herausforderung: Jedes Mal, wenn sie eine Veranstaltung organisieren, müssen Mitglieder die Ausgaben vorstrecken und möchten ihr Geld zurückerhalten."
+
+msgid "The solution"
+msgstr "Die Lösung"
+
+msgid "This tool makes it easy for you to organize events and manage participant registrations."
+msgstr "Dieses Tool erleichtert es dir, Veranstaltungen zu organisieren und die Teilnehmerregistrierungen zu verwalten."
+
+msgid "Features"
+msgstr "Funktionen"
+
+msgid "Create Events:"
+msgstr "Veranstaltungen anlegen:"
+
+msgid "Participant Registration:"
+msgstr "Teiliregistrierung:"
+
+msgid "Manage Registrations:"
+msgstr "Anmeldung verwalten:"
+
+msgid "Communication:"
+msgstr "Kommunikation:"
+
+msgid "Download PDFs:"
+msgstr "Dowload PDFs"
+
+msgid "Easily set up and manage all your events."
+msgstr "Erstelle und verwalte deine Veranstaltungen ganz einfach."
+
+msgid "Allow participants to register for your events effortlessly."
+msgstr "Erlaube den Teilis, sich mühelos für deine Veranstaltungen anzumelden."
+
+msgid "Keep track of all your event registrations in one place and watch the income of your event."
+msgstr "Behalte alle Registrierungen sowie die aktuellen Einnahmen für deine Veranstaltungen an einem Ort im Blick."
+
+msgid "Send e-mails to a single participant, a group of participant or all participants."
+msgstr "Sende E-Mails an einen einzelnen Teili, eine Gruppe von Teilis oder alle Teilis der Veranstaltung"
+
+msgid "Conveniently download all registration details as PDF files."
+msgstr "Lade alle Registrierungsdetails bequem als PDF-Dateien herunter."
+
+msgid "State director"
+msgstr "Landesvorstand"
+
+msgid "Club director"
+msgstr "StaFü"
+
+msgid "At least one participating group required"
+msgstr "Es muss mindestens ein beteiligter Stamm gewählt sein"
+
+msgid "Please create at least one local group first."
+msgstr "Bitte lege zunächst mindestens einen Stamm an."
+
+msgid "URL to the registration order"
+msgstr "URL zur Anmelde-Ordnung"
+
+msgid "Keep free if no document exists"
+msgstr "Wenn kein Dokument vorhanden ist, lass das Feld frei"
+
+msgid "I would like to register for the event."
+msgstr "Ich möchte mich verbindlich zu der Veranstaltung anmelden."
+
+msgid "I would like to register for the event"
+msgstr "Ich möchte mich verbindlich zu der Veranstaltung anmelden"
+
+
+msgid "and have been informed about the cancellation conditions."
+msgstr "und habe mich über die Stornobedingungen informiert."
+
+msgid "Registration and Cancellation order"
+msgstr "Anmelde- und Abmeldeordnung"
+
+msgid "Send a participant list every Sunday to event management and local groups"
+msgstr "Wöchentliche Anmeldelisten an die Veranstaltungsleitung und die Stämme schicken"
+
+msgid "The event is not opened for participation. Please contact the event management if you have questions."
+msgstr "Die Veranstaltung ist derzeit nicht für Anmeldungen geöffnet. Bei Fragen kontaktiere bitte die Aktionsleitung."
+
+msgid "Accept all and next"
+msgstr "Alle akzeptieren und weiter"
+
+msgid "Previous"
+msgstr "Zurück"
+
+msgid "Minimum age for alcoholics"
+msgstr "Mindestalter für den Alkoholkonsum"
+
+msgid "Food intolerances"
+msgstr "Lebensmittelunverträglichkeiten"
+
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+msgid "The profile was updated."
+msgstr "Das Profil wurde aktualisiert."
+
+msgid "No"
+msgstr "Nein"
+
+msgid "Extended police clearance certificate"
+msgstr "erw. polizeiliches Führungszeugnis"
+
+msgid "existence checked"
+msgstr "Existenz geprüft"
+
+msgid "existing"
+msgstr "Vorhanden"
+
+msgid "Awareness checklist"
+msgstr "Awareness Prüfliste"
+
+msgid "Please contact the event management via the email address %s to get a list of all adult participants and check if they have submitted the extended police clearance certificate."
+msgstr "Bitte kontaktiere den zuständigen Mitgliedsverwalter über die E-Mail-Mdresse %s um abzuklären, ob alle volljährigen Teilnehmenden das erweiterte polizeiliche Führungszeugnis eingereicht haben."
+
+msgid "Please check out the list of adult participants and Contact the responsible membership manager via the email address %s to clarify whether all adult participants have submitted the extended police clearance certificate."
+msgstr "Bitte prüfen die Teilnehmendenliste der volljährigen Teilnehmenden und nimm Kontakt mit dem zuständigen Mitgliedsverwalterli über die E-Mail-Adresse %s auf, um zu klären, ob alle volljährigen Teilnehmenden das erweiterte polizeiliche Führungszeugnis eingereicht haben."
+
+msgid "E-Mail (Central member management)"
+msgstr "E-Mail (Landesmitgliederverwaltung)"
+
+msgid "E-mail address (member management)"
+msgstr "E-Mail-Adresse (Mitgliederverwaltung)"

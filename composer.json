@@ -1,0 +1,7 @@
+{
+    "require": {
+        "dompdf/dompdf": "^3.0",
+        "endroid/qr-code" : "^5.1.0",
+        "illuminate/database": "^11.17"
+    }
+}

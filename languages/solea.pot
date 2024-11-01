@@ -1,0 +1,870 @@
+msgid "Registration"
+msgstr ""
+
+msgid "Event \"%s\" is closed - Please check participants"
+msgstr ""
+
+msgid "Participation report for  %s - Please check participants"
+msgstr ""
+
+msgid "Registration for event \"%s\" has failed"
+msgstr ""
+
+msgid "Contribution"
+msgstr ""
+
+msgid "I also eat meat"
+msgstr ""
+
+msgid "Vegetarian"
+msgstr ""
+
+msgid "Vegan"
+msgstr ""
+
+msgid "Your registration confirmation for event"
+msgstr ""
+
+msgid "A new participant has registered for event"
+msgstr ""
+
+msgid "Participant for event \"%s\" was unregistered"
+msgstr ""
+
+msgid "Hello,"
+msgstr ""
+
+msgid "This is just a small information email that your event %1$s is still open for registrations until %2$s."
+msgstr ""
+
+msgid "You can already check the participant list here: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+msgid "The event \"%s\" has just closed. Please check the participation lists."
+msgstr ""
+
+msgid "You can check the participant list here: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+msgid "This is just a small information email to let you know that your event %1$s is still open for registrations until %2$s."
+msgstr ""
+
+msgid "The following participants are registered for your local group:"
+msgstr ""
+
+msgid "The following participants are currently registered for your local group:"
+msgstr ""
+
+msgid "years"
+msgstr ""
+
+msgid "Hello %1$s,</h3><br />You are now signed off from the event \"%2$s\"<br /><br />The event management will contact you if you receive any refunds."
+msgstr ""
+
+msgid "For further questions, please contact"
+msgstr ""
+
+msgid "The event management crew"
+msgstr ""
+
+msgid "Hello"
+msgstr ""
+
+msgid "A new participant has just signed up for the event \"%s\"."
+msgstr ""
+
+msgid "Firstname:"
+msgstr ""
+
+msgid "Lastname:"
+msgstr ""
+
+msgid "Nickname:"
+msgstr ""
+
+msgid "E-Mail:"
+msgstr ""
+
+msgid "E-Mail (parents):"
+msgstr ""
+
+msgid "If you are part of the event management, you can see all details on:"
+msgstr ""
+
+msgid "The participant %1$s has just signed off from the event \"%2$s\"."
+msgstr ""
+
+msgid "Hello %s,"
+msgstr ""
+
+msgid "We have received your payment. You have now paid %s."
+msgstr ""
+
+msgid "All required payment is now complete, and you are fully registered for the event."
+msgstr ""
+
+msgid "Please note that an amount of %s is still missing."
+msgstr ""
+
+msgid "Your registration may be canceled if the remaining amount is not received by %s."
+msgstr ""
+
+msgid "If full payment is not possible within this period, please contact the event management."
+msgstr ""
+
+msgid "Your registration for the event \"%s\" was successful. We have recorded the following data:"
+msgstr ""
+
+msgid "Arrival"
+msgstr ""
+
+msgid "Departure"
+msgstr ""
+
+msgid "Eating habit"
+msgstr ""
+
+msgid "If this is not correct, or if you have urgent questions, please contact"
+msgstr ""
+
+msgid "To complete your registration, please transfer the registration amount immediately to the following bank account:"
+msgstr ""
+
+msgid "Account owner"
+msgstr ""
+
+msgid "Giro-Code"
+msgstr ""
+
+msgid "IBAN"
+msgstr ""
+
+msgid "Purpose"
+msgstr ""
+
+msgid "Total amount"
+msgstr ""
+
+msgid "Please note that your registration may be cancelled if payment is not received in the specified account by %s."
+msgstr ""
+
+msgid "If payment is not possible or only partially possible within this period, please contact the event management."
+msgstr ""
+
+msgid "You do not have to pay the registration fee. This is the case if participation is supported, billing is done through your local group, or there are other decisions."
+msgstr ""
+
+msgid "Your registration is complete now."
+msgstr ""
+
+msgid "The event \"%1$s\" was closed on %2$s. Please check now if every participant has paid the event contributions."
+msgstr ""
+
+msgid "Deregistered participants"
+msgstr ""
+
+msgid "Amount list for"
+msgstr ""
+
+msgid "First name"
+msgstr ""
+
+msgid "Last name"
+msgstr ""
+
+msgid "Participant group"
+msgstr ""
+
+msgid "Local group"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Amount list"
+msgstr ""
+
+msgid "Non-Alcoholic Beverage List for "
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid "Local Group"
+msgstr ""
+
+msgid "Birthday"
+msgstr ""
+
+msgid "Beverages"
+msgstr ""
+
+msgid "Drinking list (non-alcoholic)"
+msgstr ""
+
+msgid "Alcoholic Beverage List for "
+msgstr ""
+
+msgid "Beer"
+msgstr ""
+
+msgid "Wine"
+msgstr ""
+
+msgid "Sparkling Wine"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Drinking list (alcoholic)"
+msgstr ""
+
+msgid "First Aid List for "
+msgstr ""
+
+msgid "Age"
+msgstr ""
+
+msgid "Swimming Permission"
+msgstr ""
+
+msgid "Allergies"
+msgstr ""
+
+msgid "Medications"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "First aid list"
+msgstr ""
+
+msgid "Addition to the Kitchen List for "
+msgstr ""
+
+msgid "Loal group"
+msgstr ""
+
+msgid "Dietary Habits"
+msgstr ""
+
+msgid "Kitchen list with allergies"
+msgstr ""
+
+msgid "Kitchen overview"
+msgstr ""
+
+msgid "Breakfast"
+msgstr ""
+
+msgid "Lunch"
+msgstr ""
+
+msgid "Dinner"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Depature"
+msgstr ""
+
+msgid "Attendance days"
+msgstr ""
+
+msgid "Zip code"
+msgstr ""
+
+msgid "Zip code (local group)"
+msgstr ""
+
+msgid "Participant list"
+msgstr ""
+
+msgid "Participant list for"
+msgstr ""
+
+msgid "Signature"
+msgstr ""
+
+msgid "Photo Permission"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Photo Permission Social Media"
+msgstr ""
+
+msgid "Photo Permission Print Media"
+msgstr ""
+
+msgid "Photo Permission Websites"
+msgstr ""
+
+msgid "Photo Permission Partner Mailings"
+msgstr ""
+
+msgid "Photo Permission Internal Archives"
+msgstr ""
+
+msgid "Photo permission"
+msgstr ""
+
+msgid "Swimmer"
+msgstr ""
+
+msgid "Non-Swimmer"
+msgstr ""
+
+msgid "No bath permission"
+msgstr ""
+
+msgid "Meat"
+msgstr ""
+
+msgid "Participant"
+msgstr ""
+
+msgid "Online participant"
+msgstr ""
+
+msgid "Teamer"
+msgstr ""
+
+msgid "Volunteer"
+msgstr ""
+
+msgid "The event was updated"
+msgstr ""
+
+msgid "Mail send report"
+msgstr ""
+
+msgid "The following message was sent to:"
+msgstr ""
+
+msgid "Successfully sent messages"
+msgstr ""
+
+msgid "Failed to sent messages"
+msgstr ""
+
+msgid "The participant was re-registered."
+msgstr ""
+
+msgid "The participant was informed by email."
+msgstr ""
+
+msgid "The amount was registered."
+msgstr ""
+
+msgid "The participant data were updated"
+msgstr ""
+
+msgid "The participant was deregistered."
+msgstr ""
+
+msgid "This request is not valid anymore. Please go back to start page"
+msgstr ""
+
+msgid "The local group was created"
+msgstr ""
+
+msgid "The settings are saved"
+msgstr ""
+
+msgid "The local group was updated"
+msgstr ""
+
+msgid "Unfortunately, your registration could not be processed because you are already registered for this event."
+msgstr ""
+
+msgid "If you were unregistered and want to register again or have any questions, please contact the event management by email:"
+msgstr ""
+
+msgid "Unfortunately, your registration could not be processed automatically. This is usually the case if the form contains data that cannot be processed automatically."
+msgstr ""
+
+msgid "The event management has already been informed and is attempting to complete the registration manually. You will be contacted by email afterwards or if you have any further questions."
+msgstr ""
+
+msgid "If this does not happen within 5 days, please contact us by email:"
+msgstr ""
+
+msgid "Please apologize for the inconvenience caused."
+msgstr ""
+
+msgid "Please also contact us if you have not received a confirmation email within 3 days."
+msgstr ""
+
+msgid "Register my child"
+msgstr ""
+
+msgid "My child is not yet of full-aged, I would like to register my child for the event."
+msgstr ""
+
+msgid "Register myself"
+msgstr ""
+
+msgid "I am full-aged and would like to register for the event."
+msgstr ""
+
+msgid "Allergies / Intolerances"
+msgstr ""
+
+msgid "You must bring sufficient quantities of medication with you."
+msgstr ""
+
+msgid "Eating habits"
+msgstr ""
+
+msgid "What else would you like to tell us"
+msgstr ""
+
+msgid "I would like to register for the event and have been informed about the cancellation conditions."
+msgstr ""
+
+msgid "I will pay the total amount of"
+msgstr ""
+
+msgid "in accordance with the information provided in the incoming email."
+msgstr ""
+
+msgid "I agree that the data I have entered here will be transmitted and stored electronically for the purpose of event registration and billing."
+msgstr ""
+
+msgid "Regular amount"
+msgstr ""
+
+msgid "Funded amount"
+msgstr ""
+
+msgid "depending on availability"
+msgstr ""
+
+msgid "Social contribution"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Arrival:"
+msgstr ""
+
+msgid "Before dinner"
+msgstr ""
+
+msgid "Before lunch"
+msgstr ""
+
+msgid "Before breakfast"
+msgstr ""
+
+msgid "For evening round / No meal on arrival day"
+msgstr ""
+
+msgid "Departure:"
+msgstr ""
+
+msgid "After breakfast"
+msgstr ""
+
+msgid "After lunch"
+msgstr ""
+
+msgid "After dinner"
+msgstr ""
+
+msgid "Early morning / No meal on departure day"
+msgstr ""
+
+msgid "First Name:"
+msgstr ""
+
+msgid "Last Name:"
+msgstr ""
+
+msgid "Local Group:"
+msgstr ""
+
+msgid "Please select"
+msgstr ""
+
+msgid "Date of Birth:"
+msgstr ""
+
+msgid "Street, House Number:"
+msgstr ""
+
+msgid "Postal Code, City:"
+msgstr ""
+
+msgid "Phone:"
+msgstr ""
+
+msgid "E-mail address:"
+msgstr ""
+
+msgid "Telephone"
+msgstr ""
+
+msgid "E-mail address"
+msgstr ""
+
+msgid "Swimming permission"
+msgstr ""
+
+msgid "No permission"
+msgstr ""
+
+msgid "My child is allowed to bathe but CANNOT SWIM"
+msgstr ""
+
+msgid "My child is allowed to bathe and can swim"
+msgstr ""
+
+msgid "I participate as a"
+msgstr ""
+
+msgid "Team member"
+msgstr ""
+
+msgid "Other participant"
+msgstr ""
+
+msgid "On the event"
+msgstr ""
+
+msgid "I mainly take on tasks and support the team"
+msgstr ""
+
+msgid "I would like to participate in the program mainly"
+msgstr ""
+
+msgid "Personal data (parents)"
+msgstr ""
+
+msgid "Personal data (pariticpant)"
+msgstr ""
+
+msgid "Arrival and departure"
+msgstr ""
+
+msgid "Special characteristics"
+msgstr ""
+
+msgid "Please let us know what we can take photos of you / your child for."
+msgstr ""
+
+msgid "Social Media (Facebook / Instagram / ...)"
+msgstr ""
+
+msgid "Print Media (Local newspaper, club magazine, postcards)"
+msgstr ""
+
+msgid "Websites (club\'s website / local group\'s website)"
+msgstr ""
+
+msgid "Partners & Sponsors (often in the form of emails)"
+msgstr ""
+
+msgid "Internal purposes (chronicle, protected digital photo album)"
+msgstr ""
+
+msgid "Edit event settings"
+msgstr ""
+
+msgid "Event name"
+msgstr ""
+
+msgid "Registration URL"
+msgstr ""
+
+msgid "Organizer E-mail address"
+msgstr ""
+
+msgid "Registration end"
+msgstr ""
+
+msgid "Event is open for signups."
+msgstr ""
+
+msgid "Notify immediately when a participant has registered."
+msgstr ""
+
+msgid "Meat will be offered at the event."
+msgstr ""
+
+msgid "Allow following local groups to participate"
+msgstr ""
+
+msgid "Add new event"
+msgstr ""
+
+msgid "Event begin"
+msgstr ""
+
+msgid "Event end"
+msgstr ""
+
+msgid "Billing deadline"
+msgstr ""
+
+msgid "Participants pay direct to event account"
+msgstr ""
+
+msgid "Event account owner"
+msgstr ""
+
+msgid "Event account IBAN"
+msgstr ""
+
+msgid "Registration by solidarity principle"
+msgstr ""
+
+msgid "Classic registration"
+msgstr ""
+
+msgid "Event amounts"
+msgstr ""
+
+msgid "Group_amounts"
+msgstr ""
+
+msgid "Available events"
+msgstr ""
+
+msgid "There is currently no event, where you can register for."
+msgstr ""
+
+msgid "Event date"
+msgstr ""
+
+msgid "Registration until"
+msgstr ""
+
+msgid "Register now"
+msgstr ""
+
+msgid "Send mass mail"
+msgstr ""
+
+msgid "Recipient(s)"
+msgstr ""
+
+msgid "Send copy"
+msgstr ""
+
+msgid "Send copy to event management"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Amount for teamer"
+msgstr ""
+
+msgid "Keep free to disable this group"
+msgstr ""
+
+msgid "day"
+msgstr ""
+
+msgid "Description for group"
+msgstr ""
+
+msgid "Amount for volunteers"
+msgstr ""
+
+msgid "Amount for participant"
+msgstr ""
+
+msgid "Amount for others"
+msgstr ""
+
+msgid "Amount for Online participants"
+msgstr ""
+
+msgid "Maximum amount for event"
+msgstr ""
+
+msgid "Increase amount by"
+msgstr ""
+
+msgid "For registrations from"
+msgstr ""
+
+msgid "Create event"
+msgstr ""
+
+msgid "Solidarity amount"
+msgstr ""
+
+msgid "Keep free to disable this option"
+msgstr ""
+
+msgid "regular amount"
+msgstr ""
+
+msgid "Reducced amount"
+msgstr ""
+
+msgid "Add local group"
+msgstr ""
+
+msgid "Group name"
+msgstr ""
+
+msgid "ZIP code"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Update local group"
+msgstr ""
+
+msgid "Local groups"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Add new Group"
+msgstr ""
+
+msgid "Notices"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Contact person"
+msgstr ""
+
+msgid "Personaldata"
+msgstr ""
+
+msgid "Participant data"
+msgstr ""
+
+msgid "Nickname"
+msgstr ""
+
+msgid "Participation group"
+msgstr ""
+
+msgid "Participant details"
+msgstr ""
+
+msgid "Participant amount details"
+msgstr ""
+
+msgid "Please enter the total amount paid for the event so far:"
+msgstr ""
+
+msgid "Unregister participant"
+msgstr ""
+
+msgid "Please enter the date when the unregister request was received:"
+msgstr ""
+
+msgid "Event overview"
+msgstr ""
+
+msgid "Participants by local group"
+msgstr ""
+
+msgid "Participants by participation group"
+msgstr ""
+
+msgid "Event settings"
+msgstr ""
+
+msgid "participants"
+msgstr ""
+
+msgid "Filter participant"
+msgstr ""
+
+msgid "Presence days"
+msgstr ""
+
+msgid "Date of deregistration"
+msgstr ""
+
+msgid "Send email to"
+msgstr ""
+
+msgid "Confirm payment"
+msgstr ""
+
+msgid "Unregister"
+msgstr ""
+
+msgid "Re-Register"
+msgstr ""
+
+msgid "Send e-mail to group"
+msgstr ""
+
+msgid "Participants"
+msgstr ""
+
+msgid "Send e-mail to all participants"
+msgstr ""
+
+msgid "Full aged"
+msgstr ""
+
+msgid "Years"
+msgstr ""
+
+msgid "Name of contact person"
+msgstr ""
+
+msgid "Medication"
+msgstr ""
+
+msgid "Your profile is not complete."
+msgstr ""
+
+msgid "Please complete"
+msgstr ""
+
+msgid "your profile"
+msgstr ""
+
+msgid "to be able to use all comfort functions."
+msgstr ""
+
+msgid "solea"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "solea settings"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Icon for children"
+msgstr ""
+
+msgid "Icon for adults"
+msgstr ""
+
